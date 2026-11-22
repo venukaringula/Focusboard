@@ -99,8 +99,13 @@ focusboard/
 
 ## Screenshots
 
-Screenshots of the desktop and mobile layouts will be added here.
+### Desktop View
 
+![FocusBoard Desktop Screenshot](screenshots/desktop.png)
+
+### Mobile View
+
+![FocusBoard Mobile Screenshot](screenshots/mobile.png)
 ## Deployment
 
 The application is deployed using Vercel.
