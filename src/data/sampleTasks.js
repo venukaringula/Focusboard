@@ -1,0 +1,58 @@
+const sampleTasks = [
+  {
+    id: "task-1",
+    title: "Complete dashboard wireframes",
+    description: "Review the dashboard layout and finalize the main screen wireframes.",
+    category: "Design",
+    status: "Completed",
+    priority: "High",
+    dueDate: "2026-11-20",
+  },
+  {
+    id: "task-2",
+    title: "Build reusable task components",
+    description: "Create reusable React components for task cards, forms, and filters.",
+    category: "Development",
+    status: "In progress",
+    priority: "High",
+    dueDate: "2026-11-24",
+  },
+  {
+    id: "task-3",
+    title: "Write project documentation",
+    description: "Document setup instructions and project features.",
+    category: "Documentation",
+    status: "To do",
+    priority: "Medium",
+    dueDate: "2026-11-26",
+  },
+  {
+    id: "task-4",
+    title: "Test mobile responsiveness",
+    description: "Check the dashboard on mobile, tablet, and desktop.",
+    category: "Testing",
+    status: "In progress",
+    priority: "Medium",
+    dueDate: "2026-11-27",
+  },
+  {
+    id: "task-5",
+    title: "Review accessibility",
+    description: "Check form labels, keyboard navigation, and focus indicators.",
+    category: "Quality",
+    status: "To do",
+    priority: "High",
+    dueDate: "2026-11-28",
+  },
+  {
+    id: "task-6",
+    title: "Prepare deployment",
+    description: "Run a production build and publish the project.",
+    category: "Deployment",
+    status: "To do",
+    priority: "Low",
+    dueDate: "2026-11-30",
+  },
+];
+
+export default sampleTasks;
